@@ -1,0 +1,7 @@
+[project]
+name = "traitor"
+version = "0.1.0"
+description = "Syntactic sugar for Python's `Protocol`, inspired by Rust's traits"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = []
